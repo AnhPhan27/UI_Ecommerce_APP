@@ -1,16 +1,18 @@
-# ui_ecommerce_app
-
-A new Flutter project.
+# UI_Ecommerce_App
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Technology used in the app:
+- Flutter framework
+- Dart programming language
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Main function
+- Login and register an account with auto validate
+- Home page with product browser
+- Shopping cart page
+- Detail product information page
+##ScreenShot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ScreenShot-1](https://user-images.githubusercontent.com/113830198/236160355-78bc8c9f-1c4f-40f2-b5f0-5c361cb19526.png)
