@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:ui_ecommerce_app/constant.dart';
-import 'package:ui_ecommerce_app/size_config.dart';
 
-import '../../profile/profile_screen.dart';
+import '../../../../profile/profile_screen.dart';
 import '../home_screen.dart';
 
 class NavScreen extends StatefulWidget {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../../constant.dart';
-import '../../model/Cart.dart';
-import '../../size_config.dart';
+import '../../../constant.dart';
+import '../../../model/Cart.dart';
+import '../../../size_config.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 
 class CartCard extends StatefulWidget {

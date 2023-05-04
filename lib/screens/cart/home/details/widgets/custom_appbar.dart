@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
-import '../../../model/products.dart';
-import '../../../size_config.dart';
+import '../../../../../model/products.dart';
+import '../../../../../size_config.dart';
 
 class CustomAppBar extends StatelessWidget {
   const CustomAppBar({

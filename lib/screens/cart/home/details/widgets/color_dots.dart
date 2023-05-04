@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../../../constant.dart';
-import '../../../model/products.dart';
-import '../../../size_config.dart';
+import '../../../../../constant.dart';
+import '../../../../../model/products.dart';
+import '../../../../../size_config.dart';
 
 class ColorDots extends StatelessWidget {
   const ColorDots({

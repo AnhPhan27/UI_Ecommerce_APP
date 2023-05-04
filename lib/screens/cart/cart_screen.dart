@@ -1,13 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:ui_ecommerce_app/constant.dart';
 import 'package:ui_ecommerce_app/model/Cart.dart';
 import 'package:ui_ecommerce_app/size_config.dart';
-import 'package:ui_ecommerce_app/widgets/default_button.dart';
-
-import '../model/products.dart';
 import 'widgets/cart_card.dart';
 import 'widgets/checkout_card.dart';
 
