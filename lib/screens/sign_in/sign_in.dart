@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import '../size_config.dart';
-import '../validator.dart';
-import '../widgets/default_button.dart';
+import '../../size_config.dart';
+import '../../validator.dart';
+import '../../widgets/default_button.dart';
 import 'widgets/checkbox_row.dart';
 
 import 'widgets/email_formfield.dart';

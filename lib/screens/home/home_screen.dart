@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:ui_ecommerce_app/home/widgets/discount_banner.dart';
-import 'package:ui_ecommerce_app/home/widgets/popular_products.dart';
-import 'package:ui_ecommerce_app/home/widgets/special_offer.dart';
+import 'package:ui_ecommerce_app/screens/home/widgets/discount_banner.dart';
+import 'package:ui_ecommerce_app/screens/home/widgets/popular_products.dart';
+import 'package:ui_ecommerce_app/screens/home/widgets/special_offer.dart';
 import 'package:ui_ecommerce_app/size_config.dart';
 
-import '../profile/profile_screen.dart';
 import 'widgets/categories.dart';
 import 'widgets/search_bar.dart';
 

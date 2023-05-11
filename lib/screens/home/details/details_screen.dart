@@ -4,7 +4,7 @@ import 'package:ui_ecommerce_app/model/products.dart';
 import 'package:ui_ecommerce_app/size_config.dart';
 import 'package:ui_ecommerce_app/widgets/default_button.dart';
 
-import '../../constant.dart';
+import '../../../../constant.dart';
 import 'widgets/color_dots.dart';
 import 'widgets/custom_appbar.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ui_ecommerce_app/constant.dart';
-import '../size_config.dart';
-import '../widgets/default_button.dart';
+import '../../size_config.dart';
+import '../../widgets/default_button.dart';
 
 class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({super.key});

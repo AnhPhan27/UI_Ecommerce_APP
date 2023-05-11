@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../constant.dart';
-import '../../size_config.dart';
+import '../../../constant.dart';
+import '../../../size_config.dart';
 
 class TitleText extends StatelessWidget {
   const TitleText({

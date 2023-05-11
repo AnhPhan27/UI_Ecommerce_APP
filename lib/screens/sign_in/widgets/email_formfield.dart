@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../size_config.dart';
-import '../../validator.dart';
+import '../../../size_config.dart';
+import '../../../validator.dart';
 
 class EmailFormField extends StatelessWidget {
   EmailFormField({

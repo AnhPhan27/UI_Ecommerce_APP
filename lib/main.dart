@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:ui_ecommerce_app/theme.dart';
 
 import 'routes.dart';
-import 'welcome_screen/welcome_screen.dart';
+import 'screens/welcome_screen/welcome_screen.dart';
 
 void main() {
   runApp(const MyApp());

@@ -7,9 +7,9 @@ import '../sign_in/widgets/confirm_password_formfield.dart';
 import '../sign_in/widgets/email_formfield.dart';
 import '../sign_in/widgets/password_formfield.dart';
 import '../sign_in/widgets/social_account.dart';
-import '../size_config.dart';
-import '../validator.dart';
-import '../widgets/default_button.dart';
+import '../../size_config.dart';
+import '../../validator.dart';
+import '../../widgets/default_button.dart';
 
 class SignUpScreen extends StatelessWidget {
   SignUpScreen({super.key});

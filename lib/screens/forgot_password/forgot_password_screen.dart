@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-import 'package:ui_ecommerce_app/sign_in/widgets/email_formfield.dart';
-import 'package:ui_ecommerce_app/sign_in/widgets/sign_up_text.dart';
+import 'package:ui_ecommerce_app/screens/sign_in/widgets/email_formfield.dart';
+import 'package:ui_ecommerce_app/screens/sign_in/widgets/sign_up_text.dart';
 import 'package:ui_ecommerce_app/size_config.dart';
 import 'package:ui_ecommerce_app/widgets/default_button.dart';
 
-import '../validator.dart';
+import '../../validator.dart';
 import 'widgets/title_text.dart';
 
 class ForgotPasswordScreen extends StatelessWidget {

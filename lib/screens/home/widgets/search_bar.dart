@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ui_ecommerce_app/size_config.dart';
 
-import '../../constant.dart';
+import '../../../../constant.dart';
 
 class SearchBarAndNotifications extends StatelessWidget {
   const SearchBarAndNotifications({super.key});
